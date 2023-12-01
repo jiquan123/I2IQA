@@ -49,8 +49,10 @@ We will continue to provide more experimental results in the following.
 
 ### Database
 The constructed PKU-I2IQA database can be accessed using the links below.
-Download PKU-I2IQA database:[[百度网盘](https://pan.baidu.com/s/1Jq6aAW5y3i_p5jgoRWvB8w ) 
+Download PKU-I2IQA database:
+1.[[百度网盘](https://pan.baidu.com/s/1Jq6aAW5y3i_p5jgoRWvB8w ) 
 (提取码：i2ia)].
+2.[[Google Drive](https://drive.google.com/file/d/1QP7vaGIkzMiaAzdjL_p_UfrABeLoQeXW/view?usp=sharing)]
 
 ### Contact
 If you have any question, please contact yuanjiquan@stu.pku.edu.cn
